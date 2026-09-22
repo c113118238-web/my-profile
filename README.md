@@ -9,7 +9,8 @@
 
 我最喜歡的網站：[GitHub](https://github.com)
 
-![頭像](<img width="958" height="637" alt="25-0604-Z6II-0275" src="https://github.com/user-attachments/assets/d94e7bff-2556-4730-880f-2ebd54bd87db" />)
+![頭像]<img width="958" height="637" alt="25-0604-Z6II-0275" src="https://github.com/user-attachments/assets/31cacca3-49d1-4d07-b99b-b97353b40437" />
+
 
 
 > 
