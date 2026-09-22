@@ -1,4 +1,4 @@
-<img width="958" height="637" alt="image" src="https://github.com/user-attachments/assets/246c1d02-9a8f-4f98-a096-e32777a6e0ec" /># 楊沛雯
+# 楊沛雯
 ## 關於我
 
 - 專長一：花錢 我可以一天花5000
