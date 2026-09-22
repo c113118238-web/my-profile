@@ -1,4 +1,4 @@
-# 楊沛雯
+<img width="958" height="637" alt="image" src="https://github.com/user-attachments/assets/246c1d02-9a8f-4f98-a096-e32777a6e0ec" /># 楊沛雯
 ## 關於我
 
 - 專長一：花錢 我可以一天花5000
@@ -9,7 +9,8 @@
 
 我最喜歡的網站：[GitHub](https://github.com)
 
-![頭像](https://photos.fife.usercontent.google.com/pw/AP1GczN3jyMGsqPUJNmKA1XGlW_kfABGREyNH7y28cKswX1ZIxutLbyKol1b=w958-h637-s-no-gm?authuser=0)
+![頭像](<img width="958" height="637" alt="25-0604-Z6II-0275" src="https://github.com/user-attachments/assets/d94e7bff-2556-4730-880f-2ebd54bd87db" />)
+
 
 > 
 
